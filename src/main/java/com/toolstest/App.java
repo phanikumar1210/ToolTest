@@ -5,7 +5,7 @@ package com.toolstest;
  */
  //welcome to sample djdkf
 public class App {
-	//private String welcome;
+	private String welcome;
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
