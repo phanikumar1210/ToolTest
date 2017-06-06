@@ -11,7 +11,7 @@ public class App {
 	 int i=1;
 	   if(i==1)
 	   {
-		   System.out.println("welcome 12333");
+		   System.out.println("welcome");
 	   }
     }
 }
